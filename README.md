@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Purpose17ghost
 - 👀 I’m interested in ethical hacking
 - 🌱 I’m currently learning cybersecurity
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ghostjim9@gmail.com
 
 <!---
